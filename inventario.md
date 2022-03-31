@@ -6,3 +6,4 @@ Schede madri:
 -scheda
 processori:
 -CPU
+Elettronica Padovana
