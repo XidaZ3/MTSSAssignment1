@@ -3,3 +3,5 @@
 
 Schede madri:
 -scheda
+processori:
+-CPU
